@@ -22,8 +22,10 @@ class burte_ssh():
             s.connect((host,port))
             banner=s.recv(40)
             if banner:
+                s.close()
                 return True
             else:
+                s.close()
                 pass
         except:
                 pass
