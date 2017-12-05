@@ -1,0 +1,10 @@
+bitmain
+Bitmain
+Bitmain@bitmain
+1
+111111
+11111111
+123456
+12345678
+mysql
+root
